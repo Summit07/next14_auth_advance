@@ -1,5 +1,5 @@
 {
-  "name": "auth-tutorial",
+  "name": "next-auth-server-action-2fa",
   "version": "0.1.0",
   "private": true,
   "scripts": {
